@@ -1,7 +1,7 @@
 
 # hello-world
-So you made me paranoid. Well done!<br>
-Quest: understand the rules of hide and seek. Apparently this is how programming works.<br>
+So you now I'm paranoid. Well done!<br>
+Quest: understand the rules of hide and seek. Apparently this is how programming works.<br><br>
 Finished with my woman<br>
 'cause she couldn't help me with my mind<br>
 People think I'm insane<br>
